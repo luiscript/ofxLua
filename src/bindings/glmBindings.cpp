@@ -2777,10 +2777,11 @@ typedef struct{} LANGUAGE_OBJ;
 
 // extras included via glm/ext.h
 #include <glm/gtc/matrix_access.hpp>
-#include <glm/ext/matrix_clip_space.hpp>
-#include <glm/ext/matrix_projection.hpp>
+//#include <glm/ext/matrix_clip_space.hpp>
+//#include <glm/ext/matrix_projection.hpp>
 #include <glm/gtx/compatibility.hpp>
 #include <glm/gtx/fast_square_root.hpp>
+
 
 
 #include <typeinfo>
